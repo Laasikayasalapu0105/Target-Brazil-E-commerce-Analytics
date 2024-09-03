@@ -13,22 +13,25 @@ The primary data sources for this project are customers.csv, geolocation.csv, or
 ![Dataset Schema](https://github.com/user-attachments/assets/81390d1a-b3fb-4414-a309-34b59cc44705)
 
 ## KPIs (Key Performance Indicators)
--Customer Retention Rate – Percentage of customers who made a second purchase within six months.
--Top-Spending Customers – Identifying the top 3 customers by spending for each year.
--Sales Growth Rate – Year-over-year comparison of total sales.
--Order Frequency – Average number of orders per customer over time.
+- Customer Retention Rate – Percentage of customers who made a second purchase within six months.
+
+- Top-Spending Customers – Identifying the top 3 customers by spending for each year.
+
+- Sales Growth Rate – Year-over-year comparison of total sales.
+
+- Order Frequency – Average number of orders per customer over time.
 
 ## Tools Used
--SQL for querying and extracting insights from the data.
--Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization.
--Jupyter Notebook for documenting and analyzing the data.
+- SQL for querying and extracting insights from the data.
+- Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization.
+- Jupyter Notebook for documenting and analyzing the data.
 
 ## Insights and Recommendations
--Customer Retention – A significant percentage of customers do not return for repeat purchases within six months, indicating potential areas for improvement in retention strategies.
+- Customer Retention – A significant percentage of customers do not return for repeat purchases within six months, indicating potential areas for improvement in retention strategies.
 
--Top Customers – The top 3 customers from each year have contributed significantly to the sales. Focusing on nurturing relationships with these high-value customers through personalized offers or loyalty programs could boost sales.
+- Top Customers – The top 3 customers from each year have contributed significantly to the sales. Focusing on nurturing relationships with these high-value customers through personalized offers or loyalty programs could boost sales.
 
--Payment Trends – There are fluctuations in the total payment values across different customers, suggesting that targeted pricing strategies might be effective in maximizing revenue from different customer segments.
+- Payment Trends – There are fluctuations in the total payment values across different customers, suggesting that targeted pricing strategies might be effective in maximizing revenue from different customer segments.
 
 ## Conclusion
 The analysis of Target's e-commerce sales has highlighted several critical areas, including customer retention, the importance of top-spending customers, and yearly payment trends. By acting on these insights, Target could improve both customer satisfaction and financial performance through more personalized engagement and retention initiatives.
